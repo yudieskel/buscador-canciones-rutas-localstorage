@@ -2,6 +2,10 @@
 
 Buscador de canciones con fetch (Información del artista y letra de la canción)  
 
+*Mejoras en nuetro buscador de canciones. Agregamos rutas para presentar los resultados en 
+diferentes vistas y opción de guardar las canciones como favoritas en el localStorage y 
+borrarlas si así se desea.
+
 Estaremos realizando peticiones AJAX a 2 APIs: 
 
 1- Theaudiodb.com/api_guide.php 
